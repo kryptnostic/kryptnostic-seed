@@ -69,7 +69,6 @@ dependencies {
      
      compile "log4j:log4j:1.2.17"
      
-     
     /*
      * Metrics
      * Awesome reporting-- defaults to Graphite
