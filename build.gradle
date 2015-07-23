@@ -55,9 +55,9 @@ ext.spring_framework_version='4.0.6.RELEASE'
 ext.jackson_version='2.5.1'
 ext.jetty_version='9.2.2.v20140723'
 ext.hazelcast_version='3.2.5'
-ext.fhe_core_version='0.1.1-SNAPSHOT'
-ext.kodex_version='0.0.1-SNAPSHOT'
-ext.iris_version='0.0.1-SNAPSHOT'
+ext.fhe_core_version='0.1.2-SNAPSHOT'
+ext.kodex_version='2.1.1-SNAPSHOT'
+ext.iris_version='2.1.0-SNAPSHOT'
 dependencies {
     /*
      * SL4J + LOG4J
